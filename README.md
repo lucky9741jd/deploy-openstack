@@ -29,7 +29,7 @@ Codename:       jammy
 
 1. Download and install the code.
 ```
-git clone https://github.com/wuyeliang/deploy-openstack.git
+git clone https://github.com/lucky9741jd/deploy-openstack.git
 ```
 
 2. Modify the hosts file at /root/deploy-openstack/config/hosts.
