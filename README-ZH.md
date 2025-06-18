@@ -29,7 +29,7 @@ Codename:       jammy
 1、下载安装代码
 
 ```
-git clone https://github.com/wuyeliang/deploy-openstack.git
+git clone https://github.com/lucky9741jd/deploy-openstack.git
 ```
 
 
